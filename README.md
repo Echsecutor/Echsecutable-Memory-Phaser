@@ -1,6 +1,6 @@
 # Echsecutable-Memory (Phaser Version)
 
-This is a simple Memory (mathing pairs) game with original grafics. It is a remake of https://github.com/Echsecutor/Memory.echse using http://phaser.io . This is pure js, so you can play it in your browser on any platform.
+This is a simple Memory (matching pairs) game with original grafics. It is a remake of https://github.com/Echsecutor/Memory.echse using http://phaser.io . It is written in javascript, hence playable in the browser across platforms.
 
 
 ##Privacy Policy
@@ -10,7 +10,7 @@ This app does not collect or use any personal data.
 
 ##License
 
-Copyright 2015-16 Melanie S. Schmittner and Sebastian E. Schmittner <sebastian@schmittner.pw>
+Copyright 2015-2016 Melanie Schmittner and Sebastian Schmittner <sebastian@schmittner.pw>
 
 <img alt="GPLV3" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-127x51.png" /><br />
 This Game is free software: you can redistribute it
@@ -27,7 +27,7 @@ You should have received a copy of the GNU General Public License
 along with the echsecutable Memory App.  If not, see
 <http://www.gnu.org/licenses/>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Drawings</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Melanie S. Schmittner</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Drawings</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Melanie Schmittner</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
@@ -38,7 +38,7 @@ along with the echsecutable Memory App.  If not, see
   <br />
   To the extent possible under law,
   <span resource="[_:publisher]" rel="dct:publisher">
-    <span property="dct:title">Sebastian E. Schmittner</span></span>
+    <span property="dct:title">Sebastian Schmittner</span></span>
   has waived all copyright and related or neighboring rights to the
   <span property="dct:title">sounds for the Echsecutable Memory App</span>.
 This work is published from:
