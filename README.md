@@ -1,6 +1,6 @@
 # Echsecutable-Memory (Phaser Version)
 
-This is a simple Memory (matching pairs) game with original grafics. It is a remake of https://github.com/Echsecutor/Memory.echse using http://phaser.io . It is written in javascript, hence playable in the browser across platforms.
+This is a simple Memory (matching pairs) game with original grafics. It is a remake of <a href="https://github.com/Echsecutor/Memory.echse">my android memory app</a> using <a href="http://phaser.io">Phaser</a>. It is written in javascript, hence <a href= "https://echsecutor.github.io/Echsecutable-Memory-Phaser/">playable in the browser across platforms</a>.
 
 
 ##Privacy Policy
