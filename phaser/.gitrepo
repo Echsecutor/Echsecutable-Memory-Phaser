@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/photonstorm/phaser.git
+	branch = master
+	commit = 1afa75d87197081b4986a120c4ae56d86d430411
+	parent = none
+	cmdver = 0.3.0
